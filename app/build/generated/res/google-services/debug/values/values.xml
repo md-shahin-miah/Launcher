@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">128502681489-hff7ui8albolj6cl79vahjef8dvhgjps.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">128502681489</string>
+    <string name="google_api_key" translatable="false">AIzaSyATEM6XU-IiOqPuXuOq_3my9uI5UwtkRlY</string>
+    <string name="google_app_id" translatable="false">1:128502681489:android:2fa6d61f241329c0485430</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyATEM6XU-IiOqPuXuOq_3my9uI5UwtkRlY</string>
+    <string name="google_storage_bucket" translatable="false">orderelauncher21.appspot.com</string>
+    <string name="project_id" translatable="false">orderelauncher21</string>
+</resources>

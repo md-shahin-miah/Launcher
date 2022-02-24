@@ -1,0 +1,79 @@
+<resources>
+
+    <!-- Base theme for Launcher
+
+     This does not define the actual style of launcher,
+     as the style / colors etc are dynamically generated.
+
+     This is more like a fallback- theme that may partially be used by older apis.
+
+     -->
+    <style name="baseTheme" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/finnmglasTheme_background_color</item>
+        <item name="colorPrimaryDark">@color/finnmglasTheme_background_color</item>
+        <item name="android:colorBackground">@color/finnmglasTheme_background_color</item>
+
+        <item name="colorAccent">#555</item>
+
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColorSecondary">@color/finnmglasTheme_text_color</item>
+        <item name="android:textColorPrimary">@color/finnmglasTheme_text_color</item>
+        <item name="android:textColorHint">#555</item>
+
+        <item name="android:buttonStyle">@style/Widget.AppCompat.Button.Colored</item>
+        <item name="colorButtonNormal">#555</item>
+
+        <item name="android:popupMenuStyle">@style/PopupMenuCustom</item>
+
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowAnimationStyle">@style/WindowFadeTransition</item>
+    </style>
+
+
+    <style name="PopupMenuCustom" parent="@android:style/Widget.PopupMenu">
+        <item name="android:popupBackground">#252827</item>
+    </style>
+
+    <style name="AlertDialogCustom" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+<!--     Set the fade in animation on all activities by default -->
+    <style name="WindowFadeTransition">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+
+    <style name="SCBSwitch" parent="Theme.AppCompat.Light">
+    <!-- active thumb & track color (30% transparency) -->
+    <item name="colorControlActivated">#F44336</item>
+
+    <!-- inactive thumb color -->
+    <item name="colorSwitchThumbNormal">#f1f1f1
+    </item>
+
+    <!-- inactive track color (30% transparency) -->
+    <item name="android:colorForeground">#42FF0000</item>
+    </style>
+
+
+
+    <style name="Theme.MyDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textColorSecondary">#0B2198</item>
+    </style>
+
+    <style name="AppTheme">
+
+        <item name="otpViewStyle">@style/OtpWidget.OtpView</item>
+    </style>
+
+    <style name="OtpWidget.OtpView" parent="Widget.AppCompat.EditText">
+        <item name="android:background">@null</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:maxLines">1</item>
+    </style>
+
+</resources>

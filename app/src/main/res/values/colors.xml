@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="finnmglasTheme_background_color">#CCCFCE</color>
+    <color name="finnmglasTheme_accent_color">#5555ff</color>
+    <color name="finnmglasTheme_text_color">#fff</color>
+
+    <color name="darkTheme_background_color">#000</color>
+    <color name="darkTheme_accent_color">#D3D1D1</color>
+    <color name="darkTheme_text_color">#fff</color>
+
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#EAEAEA</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="toolbarColor">#CCC</color>
+    <color name="textPrimary">#333333</color>
+    <color name="textDisabled">#EAE8E8</color>
+    <color name="OrderEColor">#ff6a02</color>
+</resources>

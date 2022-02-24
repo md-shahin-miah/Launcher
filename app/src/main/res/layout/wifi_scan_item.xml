@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp">
+
+    <ImageView
+        android:id="@+id/wifi_scan_item_icon"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:src="@drawable/baseline_wifi_off_24"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="8dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        >
+        <TextView
+            android:id="@+id/wifi_scan_item_ssid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:paddingTop="4sp"
+            android:paddingBottom="4sp"
+            android:textColor="@android:color/primary_text_light"
+            android:text="SSID" />
+        <TextView
+            android:textColor="@android:color/primary_text_light"
+            android:id="@+id/wifi_scan_item_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Connected" />
+    </LinearLayout>
+</LinearLayout>

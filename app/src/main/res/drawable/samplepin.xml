@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item app:OtpState_filled="true">
+        <shape android:shape="rectangle">
+            <stroke android:width="2dp" android:color="@color/finnmglasTheme_text_color" />
+            <solid android:color="@color/finnmglasTheme_text_color" />
+        </shape>
+    </item>
+    <item android:drawable="@color/finnmglasTheme_text_color" />
+</selector>

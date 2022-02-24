@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128502681489",
+    "project_id": "orderelauncher21",
+    "storage_bucket": "orderelauncher21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128502681489:android:2fa6d61f241329c0485430",
+        "android_client_info": {
+          "package_name": "uk.co.ordere.ordere_launcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128502681489-hff7ui8albolj6cl79vahjef8dvhgjps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATEM6XU-IiOqPuXuOq_3my9uI5UwtkRlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128502681489-hff7ui8albolj6cl79vahjef8dvhgjps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

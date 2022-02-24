@@ -1,0 +1,7 @@
+Launcher is an android homescreen that lets you start other apps using swipe gestures and button presses.
+It is <b>minimal, efficient and free of distraction</b>.
+
+Your homescreen only displays the date, time and a wallpaper (if you want one).
+
+This app <b>costs you nothing</b>, is <b>ad-free</b> and does not collect, receive or share any personal data.
+It boosts your efficiency, no matter who you are!

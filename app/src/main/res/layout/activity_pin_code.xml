@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/OrderEColor"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+
+   >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:layout_gravity="center_horizontal"
+        android:text="Pin Code Verification"
+        android:textColor="@android:color/white"
+        android:textSize="26sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="verification code subtext "
+        android:textAlignment="center"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@android:color/white"
+        android:gravity="center_horizontal" />
+
+    <com.mukesh.OtpView
+
+        android:id="@+id/otp_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="32dp"
+        android:inputType="textPassword"
+        android:itemBackground="@drawable/samplepin"
+        android:textColor="@android:color/black"
+        android:textAllCaps="true"
+        app:OtpHideLineWhenFilled="true"
+        app:OtpItemCount="6"
+        app:OtpItemSpacing="6dp"
+        android:theme="@style/AppTheme"
+        app:OtpLineColor="@color/finnmglasTheme_text_color"
+        app:OtpState_filled="true"
+        app:OtpViewType="line"
+        />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/invalid_pin"
+        android:visibility="gone"
+
+        android:backgroundTint="#D3FFFFFF"
+        android:layout_marginTop="30dp"
+        app:cardCornerRadius="8dp"
+         android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:padding="10dp"
+            android:textColor="#E91E63"
+            android:layout_gravity="center_horizontal"
+            android:text="Invalid pin code"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

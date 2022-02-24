@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dlg_ssid"
+        android:textSize="14sp"
+        android:textColor="#FFFFFF"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"/>
+    <EditText
+
+        android:id="@+id/dlg_wifi_act_ssid_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:clickable="false"/>
+
+    <TextView
+        android:textColor="#FFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dlg_security"
+        android:textSize="14sp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"/>
+    <EditText
+        android:id="@+id/dlg_wifi_act_security_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:clickable="false"/>
+
+    <TextView
+        android:textColor="#FFFFFF"
+        android:id="@+id/dlg_wifi_act_passphrase_caption"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dlg_passphrase"
+        android:textSize="14sp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"/>
+    <EditText
+        android:id="@+id/dlg_wifi_act_passphrase_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/dlg_passphrase"
+        android:inputType="textVisiblePassword"
+        android:focusedByDefault="true" />
+
+</LinearLayout>

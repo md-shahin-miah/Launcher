@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="settings_launcher_theme_spinner_items">
+        <item>Défaut</item>
+        <item>Noir</item>
+        <item>Image de fond</item>
+    </string-array>
+    <string-array name="settings_launcher_time_format_spinner_items">
+        <item>Défaut</item>
+        <item>Inversé</item>
+        <item>Temps</item>
+        <item>Allemand</item>
+        <item>Rien</item>
+    </string-array>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nouvelle notification</item>
+    <item quantity="other">%d nouvelles notifications</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Revenir en haut de la page"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Autres options"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"OK"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Tout afficher"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Sélectionner une application"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"NON"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"OUI"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"supprimer"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"entrée"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fonction+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Méta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Maj+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"espace"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Rechercher…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Effacer la requête"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Requête de recherche"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Rechercher"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Envoyer la requête"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Recherche vocale"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Partager avec"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Partager avec <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Réduire"</string>
+    <string name="alert_cant_open_message">Vous souhaitez modifier ses paramètres?</string>
+    <string name="alert_cant_open_title">Impossible d\'ouvrir l\'application</string>
+    <string name="bottomsheet_action_expand_halfway">Développer en entier</string>
+    <string name="character_counter_content_description">Caractères saisis %1$d sur %2$d</string>
+    <string name="character_counter_overflowed_content_description">Nombre maximal de caractères dépassé : %1$d sur %2$d</string>
+    <string name="clear_text_end_icon_content_description">Effacer le texte</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"L\'application <ns1:g id="APP_NAME">%1$s</ns1:g> rencontre des problèmes avec les services Google Play. Veuillez réessayer."</string>
+    <string name="error_icon_content_description">Erreur</string>
+    <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
+    <string name="fcm_fallback_notification_channel_label">Divers</string>
+    <string name="icon_content_description">Icône de la boîte de dialogue</string>
+    <string name="item_view_role_description">Tabulation</string>
+    <string name="list_app_delete">Désinstaller</string>
+    <string name="list_app_info">Informations</string>
+    <string name="list_apps_search_hint">rechercher des applications</string>
+    <string name="list_not_removed">Impossible de supprimer l\'application</string>
+    <string name="list_other_list">Applications</string>
+    <string name="list_other_settings">Launcher Réglages</string>
+    <string name="list_other_track_next">Musique: suivant</string>
+    <string name="list_other_track_previous">Musique: dernier</string>
+    <string name="list_other_volume_down">Musique: plus calme</string>
+    <string name="list_other_volume_up">Musique: plus fort</string>
+    <string name="list_removed">Application supprimée</string>
+    <string name="list_tab_app">Apps</string>
+    <string name="list_tab_other">Autre</string>
+    <string name="list_title_pick">Choisir App</string>
+    <string name="list_title_view">Applications</string>
+    <string name="material_clock_toggle_content_description">Sélectionner le format AM ou PM</string>
+    <string name="material_hour_selection">Sélectionnez une heure</string>
+    <string name="material_hour_suffix">%1$s h</string>
+    <string name="material_minute_selection">Sélectionner des minutes</string>
+    <string name="material_minute_suffix">%1$s min</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Passer en mode horloge pour la saisie de l\'heure.</string>
+    <string name="material_timepicker_hour">Heure</string>
+    <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Sélectionner l\'heure</string>
+    <string name="material_timepicker_text_input_mode_description">Passer en mode saisie de texte pour la saisie de l\'heure.</string>
+    <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>
+    <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Plus de %1$d nouvelles notifications</string>
+    <string name="mtrl_picker_a11y_next_month">Passer au mois suivant</string>
+    <string name="mtrl_picker_a11y_prev_month">Passer au mois précédent</string>
+    <string name="mtrl_picker_announce_current_selection">Sélection actuelle : %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Sélectionnez une date</string>
+    <string name="mtrl_picker_date_header_unselected">Date sélectionnée</string>
+    <string name="mtrl_picker_day_of_week_column_header">Colonne du jour de la semaine : %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format incorrect.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemple : %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Utiliser %1$s</string>
+    <string name="mtrl_picker_invalid_range">Plage non valide.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Accéder à l\'année %1$s</string>
+    <string name="mtrl_picker_out_of_range">Hors de portée : %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Date de début – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Date de fin</string>
+    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+    <string name="mtrl_picker_range_header_title">Sélectionnez une période</string>
+    <string name="mtrl_picker_range_header_unselected">Date de début – Date de fin</string>
+    <string name="mtrl_picker_save">Enregistrer</string>
+    <string name="mtrl_picker_text_input_date_hint">Date</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Date de fin</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Date de début</string>
+    <string name="mtrl_picker_text_input_day_abbr">j</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Passer au mode de saisie Agenda</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Appuyer pour sélectionner un jour</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passer au mode de saisie Texte</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Appuyer pour sélectionner une année</string>
+    <string name="password_toggle_content_description">Afficher le mot de passe</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Rechercher"</string>
+    <string name="settings_apps_choose">Choisir App</string>
+    <string name="settings_apps_date">Touchez date</string>
+    <string name="settings_apps_double_click">Double clic</string>
+    <string name="settings_apps_double_down">Double bas</string>
+    <string name="settings_apps_double_left">Double gauche</string>
+    <string name="settings_apps_double_right">Double droit</string>
+    <string name="settings_apps_double_up">Double haut</string>
+    <string name="settings_apps_down">Balayez bas</string>
+    <string name="settings_apps_install">Installer applications</string>
+    <string name="settings_apps_left">Balayez gauche</string>
+    <string name="settings_apps_long_click">Clic long</string>
+    <string name="settings_apps_right">Balayez droit</string>
+    <string name="settings_apps_time">Touchez horloge</string>
+    <string name="settings_apps_toast_store_not_found">Pas trouvé le PlayStore</string>
+    <string name="settings_apps_up">Balayez haut</string>
+    <string name="settings_apps_view_all">Toutes les applications</string>
+    <string name="settings_apps_vol_down">Baisser volume</string>
+    <string name="settings_apps_vol_up">Monter volume</string>
+    <string name="settings_launcher_auto_keyboard">Ouvrir clavier en recherche</string>
+    <string name="settings_launcher_auto_launch">Lancer apps par recherche</string>
+    <string name="settings_launcher_change_wallpaper">Changer l\' image de fond</string>
+    <string name="settings_launcher_choose_wallpaper">Choisir un image</string>
+    <string name="settings_launcher_disable_timeout">Gardez l\'écran allumé</string>
+    <string name="settings_launcher_enable_double">Double balayage actions</string>
+    <string name="settings_launcher_full_screen">Utiliser le plein écran</string>
+    <string name="settings_launcher_section_appearance">Apparence</string>
+    <string name="settings_launcher_section_display">Écran</string>
+    <string name="settings_launcher_section_functions">Fonctions</string>
+    <string name="settings_launcher_sensitivity">Sensibilité</string>
+    <string name="settings_launcher_theme">Theme</string>
+    <string name="settings_launcher_time_format">Format de date</string>
+    <string name="settings_meta_cant_select_launcher">Informations sur l\'application</string>
+    <string name="settings_meta_cant_select_launcher_msg">Votre appareil ne prend pas en charge cette fonctionnalité. Gérez plutôt les détails de l\'application?</string>
+    <string name="settings_meta_contact">Contacter le développeur</string>
+    <string name="settings_meta_contact_url">https://www.finnmglas.com/fr/contact/</string>
+    <string name="settings_meta_discord">Rejoindre le serveur Discord</string>
+    <string name="settings_meta_donate_url">https://www.finnmglas.com/fr/sponsor</string>
+    <string name="settings_meta_link_github">https://github.com/finnmglas/Launcher#fr</string>
+    <string name="settings_meta_report_bug">Signaler une erreur</string>
+    <string name="settings_meta_reset">Réinitialiser</string>
+    <string name="settings_meta_reset_confirm">Vous allez supprimer toutes vos préférences. Continuer?</string>
+    <string name="settings_meta_select_launcher">Choisir Launcher</string>
+    <string name="settings_meta_show_tutorial">Regardez le tutoriel</string>
+    <string name="settings_tab_app">Apps</string>
+    <string name="settings_tab_launcher">Launcher</string>
+    <string name="settings_tab_meta">Meta</string>
+    <string name="settings_title">Réglages</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="toast_cant_open_message">Ouvrez les paramètres pour choisir une application pour cette action</string>
+    <string name="tutorial_concept_text">Launcher vous offre un environnement minimaliste, efficace et sans distraction.\n\nIl ne vous coûte rien, ne contient aucune publicité, ne recueille pas de données personnelles.</string>
+    <string name="tutorial_concept_text_2">L\'application est open-source (licence MIT) et disponible sur GitHub!\n\nAssurez-vous de visiter le repo!</string>
+    <string name="tutorial_concept_title">Concept</string>
+    <string name="tutorial_finish_button">Ouvrir</string>
+    <string name="tutorial_finish_text">Vous êtes prêt à commencer!\n\nJ\'espère que cette application vous sera très précieuse!\n\n- Finn M Glas\n(le développeur)</string>
+    <string name="tutorial_finish_title">Allez!</string>
+    <string name="tutorial_setup_text">Nous avons choisi quelques applications standards pour vous, vous pouvez changer-les maintenant.</string>
+    <string name="tutorial_setup_text_2">Vous pouvez également modifier votre sélection ultérieurement.</string>
+    <string name="tutorial_setup_title">Installer</string>
+    <string name="tutorial_start_text">Prenez un moment et apprenez à utiliser ce lanceur!</string>
+    <string name="tutorial_title">Le Tutoriel</string>
+    <string name="tutorial_usage_text">Vous ne voyez que la date et l\'heure sur votre écran d\'accueil. Aucune distraction.</string>
+    <string name="tutorial_usage_text_2">Vous ouvrez des applications en faisant glisser l\'écran ou en appuyant sur les touches de volume. Choisissez-les maintenant.</string>
+    <string name="tutorial_usage_title">Utilisation</string>
+</resources>

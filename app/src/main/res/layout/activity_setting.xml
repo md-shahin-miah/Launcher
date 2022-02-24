@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eeeeee"
+    tools:context=".activity.SettingActivity">
+
+
+    <RelativeLayout
+        android:id="@+id/layout_wifi"
+        android:clickable="true"
+        android:foreground="?selectableItemBackground"
+        android:layout_margin="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_width="35dp"
+            android:src="@drawable/ic_baseline_wifi_24"
+            android:layout_height="35dp"
+            android:id="@+id/ic_wifi"
+            />
+
+        <TextView
+            android:id="@+id/tv_wifi"
+            android:layout_marginLeft="10dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/ic_wifi"
+            android:textColor="#000000"
+            android:text="WI-FI"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </RelativeLayout>
+    <View
+        android:layout_marginLeft="40dp"
+        android:background="#E3DEDE"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+
+    <RelativeLayout
+        android:id="@+id/layout_bluetooth"
+        android:clickable="true"
+        android:foreground="?selectableItemBackground"
+        android:layout_margin="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_width="35dp"
+            android:src="@drawable/ic_baseline_bluetooth_orange_24"
+            android:layout_height="35dp"
+            android:id="@+id/ic_bluetooth"
+            />
+
+        <TextView
+            android:id="@+id/tv_bluetooth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/ic_bluetooth"
+            android:text="Bluetooth"
+            android:textColor="#000000" />
+
+    </RelativeLayout>
+
+<!--    <View-->
+<!--        android:layout_marginLeft="40dp"-->
+<!--        android:background="#E3DEDE"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="1dp"/>-->
+
+
+    <RelativeLayout
+        android:visibility="gone"
+        android:id="@+id/layout_brightness"
+        android:clickable="true"
+        android:foreground="?selectableItemBackground"
+        android:layout_margin="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_width="35dp"
+            android:src="@drawable/ic_baseline_brightness_6_24"
+            android:layout_height="35dp"
+            android:id="@+id/ic_brightness"
+            />
+
+        <TextView
+            android:id="@+id/tv_brightness"
+            android:layout_marginLeft="10dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/ic_brightness"
+            android:textColor="#000000"
+            android:text="Brightness"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <ImageView
+            android:id="@+id/brightness_arrow_down"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:src="@drawable/ic_baseline_keyboard_arrow_down_24"
+            />
+
+        <ImageView
+            android:visibility="gone"
+            android:id="@+id/brightness_arrow_up"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:src="@drawable/ic_baseline_keyboard_arrow_up_24"
+            />
+
+
+    </RelativeLayout>
+    <com.google.android.material.slider.Slider
+       android:visibility="gone"
+        app:thumbColor="#FF5722"
+        app:trackColor="#FBA98E"
+        app:haloColor="#FBA98E"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        app:labelBehavior="gone"
+        android:layout_below="@id/tv_brightness"
+        android:id="@+id/brightness_slider"
+
+        android:layout_width="match_parent"
+        android:valueFrom="0"
+        android:valueTo="255"
+        android:layout_height="5dp">
+
+    </com.google.android.material.slider.Slider>
+
+    <View
+        android:layout_marginLeft="40dp"
+        android:background="#E3DEDE"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+
+    <RelativeLayout
+        android:id="@+id/system_setting"
+        android:clickable="true"
+        android:foreground="?selectableItemBackground"
+        android:layout_margin="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_width="35dp"
+            android:src="@drawable/ic_baseline_settings_applications_24"
+            android:layout_height="35dp"
+            android:id="@+id/ic_system_setting"
+            />
+
+        <TextView
+            android:id="@+id/tv_system_setting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/ic_system_setting"
+            android:text="@string/system_setting"
+            android:textColor="#000000" />
+
+
+
+
+    </RelativeLayout>
+    <View
+        android:layout_marginLeft="40dp"
+        android:background="#E3DEDE"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+
+    <RelativeLayout
+        android:id="@+id/change_launcher"
+        android:clickable="true"
+        android:foreground="?selectableItemBackground"
+        android:layout_margin="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_width="35dp"
+            android:src="@drawable/ic_baseline_smartphone_24"
+            android:layout_height="35dp"
+            android:id="@+id/ic_change_launcher"
+            />
+
+        <TextView
+            android:id="@+id/tv_change_launcher"
+            android:layout_marginLeft="10dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/ic_change_launcher"
+            android:textColor="#000000"
+            android:text="@string/change_launcher"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+
+
+
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>

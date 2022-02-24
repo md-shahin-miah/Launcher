@@ -1,0 +1,375 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="uk.co.ordere.ordere_launcher"
+4    android:versionCode="3"
+5    android:versionName="1.0.2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:6:5-68
+11-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:6:22-65
+12    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+12-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:7:5-74
+12-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:7:22-71
+13    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+13-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:8:5-10:47
+13-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:9:9-57
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:11:5-79
+14-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:11:22-76
+15    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+15-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:12:5-75
+15-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:12:22-72
+16    <uses-permission android:name="android.permission.REORDER_TASKS" />
+16-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:13:5-72
+16-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:13:22-69
+17    <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES" />
+17-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:14:5-82
+17-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:14:22-79
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:15:5-81
+18-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:15:22-78
+19    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+19-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:16:5-81
+19-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:16:22-78
+20    <uses-permission android:name="android.permission.WAKE_LOCK" />
+20-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:17:5-68
+20-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:17:22-65
+21    <uses-permission android:name="android.permission.ACCESS_DOWNLOAD_MANAGER" />
+21-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:18:5-82
+21-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:18:22-79
+22    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+22-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:19:5-83
+22-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:19:22-80
+23    <uses-permission android:name="android.permission.INTERNET" />
+23-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:20:5-67
+23-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:20:22-64
+24    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+24-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:21:5-76
+24-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:21:22-73
+25    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+25-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:22:5-76
+25-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:22:22-73
+26    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+26-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:23:5-81
+26-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:23:22-78
+27    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+27-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:24:5-75
+27-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:24:22-72
+28    <uses-permission android:name="android.permission.EXPAND_STATUS_BAR" />
+28-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:25:5-76
+28-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:25:22-73
+29    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+29-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:26:5-78
+29-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:26:22-75
+30    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+30-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:19:5-83
+30-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:19:22-80
+31    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+31-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:29:5-79
+31-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:29:22-77
+32    <uses-permission android:name="android.permission.INTERNET" />
+32-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:20:5-67
+32-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:20:22-64
+33    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+33-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:31:5-79
+33-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:31:22-76
+34    <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES" />
+34-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:14:5-82
+34-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:14:22-79
+35    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+35-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:19:5-83
+35-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:19:22-80
+36    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+36-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:34:5-35:47
+36-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:34:22-81
+37
+38    <queries>
+38-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:101:5-106:15
+39
+40        <!-- Explicit apps you know in advance about: -->
+41        <package android:name="uk.co.ordervox.merchant2" />
+41-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:103:21-71
+41-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:103:30-69
+42        <package android:name="uk.co.ordervox.merchant" />
+42-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:104:9-58
+42-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:104:18-56
+43        <package android:name="uk.co.ordere.merchant_wallet" />
+43-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:105:9-63
+43-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:105:18-61
+44    </queries>
+45
+46    <!-- Required by older versions of Google Play services to create IID tokens -->
+47    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+47-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4c432459e4ea0d0cfcab9e79f8ea4d29\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:25:5-82
+47-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4c432459e4ea0d0cfcab9e79f8ea4d29\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:25:22-79
+48    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+48-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\77ad1b9aa55500752ddc6d06dba16b6c\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:26:5-110
+48-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\77ad1b9aa55500752ddc6d06dba16b6c\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:26:22-107
+49
+50    <application
+50-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:39:5-97:19
+51        android:allowBackup="true"
+51-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:40:9-35
+52        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+52-->[androidx.core:core:1.3.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\2d329232202ffbe7e144f8141405d946\core-1.3.1\AndroidManifest.xml:24:18-86
+53        android:debuggable="true"
+54        android:extractNativeLibs="false"
+55        android:icon="@mipmap/ic_launcher"
+55-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:41:9-43
+56        android:label="@string/app_name"
+56-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:44:9-41
+57        android:requestLegacyExternalStorage="true"
+57-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:42:9-52
+58        android:roundIcon="@mipmap/ic_launcher_round"
+58-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:45:9-54
+59        android:supportsRtl="true"
+59-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:46:9-35
+60        android:testOnly="true"
+61        android:theme="@style/baseTheme"
+61-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:47:9-41
+62        android:usesCleartextTraffic="true" >
+62-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:43:9-44
+63        <activity android:name="uk.ordere.launcher.activity.AppUpdateActivity" />
+63-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:48:9-73
+63-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:48:19-61
+64        <activity android:name="uk.ordere.launcher.activity.SettingActivity" />
+64-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:49:9-62
+64-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:49:19-59
+65        <activity android:name="uk.ordere.launcher.bluetooth.BluetoothMainActivity" />
+65-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:50:9-69
+65-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:50:19-66
+66        <activity android:name="uk.ordere.launcher.activity.PinCodeActivity" />
+66-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:51:9-62
+66-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:51:19-59
+67        <activity android:name="uk.ordere.launcher.activity.WifiSettingsActivity" />
+67-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:52:9-67
+67-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:52:19-64
+68        <activity android:name="uk.ordere.launcher.bluetooth.DeviceListActivity" />
+68-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:53:9-66
+68-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:53:19-63
+69        <activity android:name="uk.ordere.launcher.wifisettings.WifiSettingsActivity" />
+69-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:54:9-71
+69-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:54:19-68
+70
+71        <receiver android:name="uk.ordere.launcher.BootReceiver" >
+71-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:56:9-60:20
+71-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:56:19-47
+72            <intent-filter>
+72-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:57:13-59:29
+73                <action android:name="android.intent.action.BOOT_COMPLETED" />
+73-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:58:17-79
+73-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:58:25-76
+74            </intent-filter>
+75        </receiver>
+76
+77        <activity
+77-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:62:9-75:20
+78            android:name="uk.ordere.launcher.activity.HomeActivity"
+78-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:63:13-50
+79            android:showOnLockScreen="true"
+79-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:64:13-44
+80            android:showWhenLocked="true"
+80-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:65:13-42
+81            android:turnScreenOn="true" >
+81-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:66:13-40
+82            <intent-filter>
+82-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:68:13-74:29
+83                <action android:name="android.intent.action.MAIN" />
+83-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:69:17-69
+83-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:69:25-66
+84
+85                <category android:name="android.intent.category.HOME" />
+85-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:71:17-73
+85-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:71:27-70
+86                <category android:name="android.intent.category.DEFAULT" />
+86-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:72:17-76
+86-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:72:27-73
+87                <category android:name="android.intent.category.LAUNCHER" />
+87-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:73:17-77
+87-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:73:27-74
+88            </intent-filter>
+89        </activity>
+90
+91        <provider
+92            android:name="androidx.core.content.FileProvider"
+92-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:78:13-62
+93            android:authorities="uk.co.ordere.ordere_launcher.provider"
+93-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:79:13-60
+94            android:exported="false"
+94-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:80:13-37
+95            android:grantUriPermissions="true" >
+95-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:81:13-47
+96            <meta-data
+96-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:82:13-84:49
+97                android:name="android.support.FILE_PROVIDER_PATHS"
+97-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:83:17-67
+98                android:resource="@xml/paths" />
+98-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:84:17-46
+99        </provider>
+100
+101        <service android:name="uk.ordere.launcher.MyFirebaseMessagingService" >
+101-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:87:9-91:19
+101-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:87:18-60
+102            <intent-filter>
+102-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:88:13-90:29
+103                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+103-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:89:17-78
+103-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:89:25-75
+104            </intent-filter>
+105        </service>
+106
+107        <receiver
+107-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4c432459e4ea0d0cfcab9e79f8ea4d29\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:28:9-35:20
+108            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+108-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4c432459e4ea0d0cfcab9e79f8ea4d29\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:29:13-78
+109            android:exported="true"
+109-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4c432459e4ea0d0cfcab9e79f8ea4d29\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:30:13-36
+110            android:permission="com.google.android.c2dm.permission.SEND" >
+110-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4c432459e4ea0d0cfcab9e79f8ea4d29\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:31:13-73
+111            <intent-filter>
+111-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4c432459e4ea0d0cfcab9e79f8ea4d29\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:32:13-34:29
+112                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+112-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4c432459e4ea0d0cfcab9e79f8ea4d29\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:33:17-81
+112-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4c432459e4ea0d0cfcab9e79f8ea4d29\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:33:25-78
+113            </intent-filter>
+114        </receiver>
+115        <!--
+116             FirebaseMessagingService performs security checks at runtime,
+117             but set to not exported to explicitly avoid allowing another app to call it.
+118        -->
+119        <service
+119-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4c432459e4ea0d0cfcab9e79f8ea4d29\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:41:9-48:19
+120            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+120-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4c432459e4ea0d0cfcab9e79f8ea4d29\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:42:13-82
+121            android:directBootAware="true"
+121-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4c432459e4ea0d0cfcab9e79f8ea4d29\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:43:13-43
+122            android:exported="false" >
+122-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4c432459e4ea0d0cfcab9e79f8ea4d29\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:44:13-37
+123            <intent-filter android:priority="-500" >
+123-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:88:13-90:29
+124                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+124-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:89:17-78
+124-->C:\Users\User\Downloads\Launcher_updated_13_10_21-1\Launcher_updated_13_10_21\app\src\main\AndroidManifest.xml:89:25-75
+125            </intent-filter>
+126        </service>
+127        <service
+127-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4c432459e4ea0d0cfcab9e79f8ea4d29\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:49:9-55:19
+128            android:name="com.google.firebase.components.ComponentDiscoveryService"
+128-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4c432459e4ea0d0cfcab9e79f8ea4d29\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:50:13-84
+129            android:directBootAware="true"
+129-->[com.google.firebase:firebase-common:20.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5174e20571161fb1932d6b9b61e89977\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+130            android:exported="false" >
+130-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4c432459e4ea0d0cfcab9e79f8ea4d29\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:51:13-37
+131            <meta-data
+131-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4c432459e4ea0d0cfcab9e79f8ea4d29\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:52:13-54:85
+132                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+132-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4c432459e4ea0d0cfcab9e79f8ea4d29\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:53:17-119
+133                android:value="com.google.firebase.components.ComponentRegistrar" />
+133-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4c432459e4ea0d0cfcab9e79f8ea4d29\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:54:17-82
+134            <meta-data
+134-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3dbd98e6ffb24e6f33a24e99c9a07c7a\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:28:13-30:85
+135                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+135-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3dbd98e6ffb24e6f33a24e99c9a07c7a\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:29:17-115
+136                android:value="com.google.firebase.components.ComponentRegistrar" />
+136-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3dbd98e6ffb24e6f33a24e99c9a07c7a\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:30:17-82
+137            <meta-data
+137-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\00f1ebe2ba3bfd900a229e2e4c9e07d1\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:30:13-32:85
+138                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+138-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\00f1ebe2ba3bfd900a229e2e4c9e07d1\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:31:17-139
+139                android:value="com.google.firebase.components.ComponentRegistrar" />
+139-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\00f1ebe2ba3bfd900a229e2e4c9e07d1\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:32:17-82
+140            <meta-data
+140-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\464d3249df847fd81cc80c712ae87cb0\jetified-firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+141                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+141-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\464d3249df847fd81cc80c712ae87cb0\jetified-firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+142                android:value="com.google.firebase.components.ComponentRegistrar" />
+142-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\464d3249df847fd81cc80c712ae87cb0\jetified-firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+143        </service>
+144        <service
+144-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b180b734405131d9502c8f59a6e9ad1c\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:29:9-35:19
+145            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+145-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b180b734405131d9502c8f59a6e9ad1c\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:30:13-103
+146            android:exported="false" >
+146-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b180b734405131d9502c8f59a6e9ad1c\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:31:13-37
+147            <meta-data
+147-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b180b734405131d9502c8f59a6e9ad1c\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:32:13-34:39
+148                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+148-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b180b734405131d9502c8f59a6e9ad1c\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:33:17-94
+149                android:value="cct" />
+149-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b180b734405131d9502c8f59a6e9ad1c\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:34:17-36
+150        </service>
+151
+152        <provider
+152-->[com.google.firebase:firebase-common:20.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5174e20571161fb1932d6b9b61e89977\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+153            android:name="com.google.firebase.provider.FirebaseInitProvider"
+153-->[com.google.firebase:firebase-common:20.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5174e20571161fb1932d6b9b61e89977\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+154            android:authorities="uk.co.ordere.ordere_launcher.firebaseinitprovider"
+154-->[com.google.firebase:firebase-common:20.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5174e20571161fb1932d6b9b61e89977\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+155            android:directBootAware="true"
+155-->[com.google.firebase:firebase-common:20.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5174e20571161fb1932d6b9b61e89977\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+156            android:exported="false"
+156-->[com.google.firebase:firebase-common:20.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5174e20571161fb1932d6b9b61e89977\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+157            android:initOrder="100" />
+157-->[com.google.firebase:firebase-common:20.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5174e20571161fb1932d6b9b61e89977\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+158
+159        <receiver
+159-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\77ad1b9aa55500752ddc6d06dba16b6c\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:29:9-33:20
+160            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+160-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\77ad1b9aa55500752ddc6d06dba16b6c\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:30:13-85
+161            android:enabled="true"
+161-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\77ad1b9aa55500752ddc6d06dba16b6c\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:31:13-35
+162            android:exported="false" >
+162-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\77ad1b9aa55500752ddc6d06dba16b6c\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:32:13-37
+163        </receiver>
+164
+165        <service
+165-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\77ad1b9aa55500752ddc6d06dba16b6c\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:35:9-38:40
+166            android:name="com.google.android.gms.measurement.AppMeasurementService"
+166-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\77ad1b9aa55500752ddc6d06dba16b6c\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:36:13-84
+167            android:enabled="true"
+167-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\77ad1b9aa55500752ddc6d06dba16b6c\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:37:13-35
+168            android:exported="false" />
+168-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\77ad1b9aa55500752ddc6d06dba16b6c\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:38:13-37
+169        <service
+169-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\77ad1b9aa55500752ddc6d06dba16b6c\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:39:9-43:72
+170            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+170-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\77ad1b9aa55500752ddc6d06dba16b6c\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:40:13-87
+171            android:enabled="true"
+171-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\77ad1b9aa55500752ddc6d06dba16b6c\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:41:13-35
+172            android:exported="false"
+172-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\77ad1b9aa55500752ddc6d06dba16b6c\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:42:13-37
+173            android:permission="android.permission.BIND_JOB_SERVICE" />
+173-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\77ad1b9aa55500752ddc6d06dba16b6c\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:43:13-69
+174
+175        <meta-data
+175-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0160428c5dd209cada89798b728330cc\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+176            android:name="com.google.android.gms.version"
+176-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0160428c5dd209cada89798b728330cc\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+177            android:value="@integer/google_play_services_version" />
+177-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0160428c5dd209cada89798b728330cc\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+178
+179        <service
+179-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\180ef61c55b7c4d959e9b6a84bb4181c\jetified-transport-runtime-3.0.0\AndroidManifest.xml:26:9-30:19
+180            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+180-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\180ef61c55b7c4d959e9b6a84bb4181c\jetified-transport-runtime-3.0.0\AndroidManifest.xml:27:13-117
+181            android:exported="false"
+181-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\180ef61c55b7c4d959e9b6a84bb4181c\jetified-transport-runtime-3.0.0\AndroidManifest.xml:28:13-37
+182            android:permission="android.permission.BIND_JOB_SERVICE" >
+182-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\180ef61c55b7c4d959e9b6a84bb4181c\jetified-transport-runtime-3.0.0\AndroidManifest.xml:29:13-69
+183        </service>
+184
+185        <receiver
+185-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\180ef61c55b7c4d959e9b6a84bb4181c\jetified-transport-runtime-3.0.0\AndroidManifest.xml:32:9-34:40
+186            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+186-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\180ef61c55b7c4d959e9b6a84bb4181c\jetified-transport-runtime-3.0.0\AndroidManifest.xml:33:13-132
+187            android:exported="false" />
+187-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\180ef61c55b7c4d959e9b6a84bb4181c\jetified-transport-runtime-3.0.0\AndroidManifest.xml:34:13-37
+188    </application>
+189
+190</manifest>

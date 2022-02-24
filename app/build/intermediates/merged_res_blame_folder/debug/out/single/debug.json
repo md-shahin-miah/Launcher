@@ -1,0 +1,430 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bt_unpair.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\bt_unpair.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bluetooth_connected_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_bluetooth_connected_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bluetooth_white_24dp.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_bluetooth_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_dummy_layout.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\dummy_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\anim_right_left.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\anim\\right_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\anim_top_down.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\anim\\top_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_list.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_deactive.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\button_deactive.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bt_on.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\bt_on.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\anim_left_right.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\anim\\left_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_merchant_app_logo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\merchant_app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_up.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\anim\\bottom_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_signal_wifi_2_bar_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\baseline_signal_wifi_2_bar_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bt_pair.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\bt_pair.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_smartphone_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_baseline_smartphone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_round_screen.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\home_round_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_wifi_action_dialog.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\wifi_action_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_call_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_baseline_call_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_signal_wifi_4_bar_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\baseline_signal_wifi_4_bar_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_home.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_launcher_bottom_shape.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\launcher_bottom_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_actions_recycler.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\settings_actions_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgnew3.jpg.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\bgnew3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_badge_version.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\badge_version.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wallet_app_logo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\wallet_app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_device_list.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\activity_device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_device.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\list_item_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tutorial_selected_dot.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\tutorial_selected_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_wifi_off_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\baseline_wifi_off_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_update_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_baseline_update_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_apps.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\list_apps.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_signal_wifi_1_bar_lock_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\baseline_signal_wifi_1_bar_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgnew.jpg.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\bgnew.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_launcher.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\settings_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_layout.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\home_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bluetooth_disabled_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_bluetooth_disabled_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_wifi_scan_item.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\wifi_scan_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_signal_wifi_3_bar_lock_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\baseline_signal_wifi_3_bar_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_footer_shape.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\footer_shape.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_actions.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\settings_actions.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_app_update.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\activity_app_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_wifi_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_baseline_wifi_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_app.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\menu\\menu_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_apps_row.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\list_apps_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_brightness_6_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_baseline_brightness_6_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_download_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_baseline_download_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_signal_wifi_4_bar_lock_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\baseline_signal_wifi_4_bar_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_signal_wifi_3_bar_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\baseline_signal_wifi_3_bar_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_bluetooth_audio_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_baseline_bluetooth_audio_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_active.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\button_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bluetooth_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_bluetooth_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_other.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\list_other.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_settings_applications_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_baseline_settings_applications_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_keyboard_arrow_up_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_baseline_keyboard_arrow_up_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\xml_paths.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\xml\\paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_meta.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\settings_meta.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_name.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_signal_wifi_1_bar_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\baseline_signal_wifi_1_bar_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_anydesk_logo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\anydesk_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chnage_launcher.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\activity_chnage_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wifi_setting.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\activity_wifi_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_launcher_background.jpg.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\launcher_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_actions_row.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\settings_actions_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_blue_main.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\activity_blue_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bt_off.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\bt_off.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_food_bg.jpg.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\food_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_signal_wifi_0_bar_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\baseline_signal_wifi_0_bar_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg1.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\bg1.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_signal_wifi_2_bar_lock_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\baseline_signal_wifi_2_bar_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_bluetooth_orange_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_baseline_bluetooth_orange_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_other_row.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\list_other_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_keyboard_arrow_down_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_baseline_keyboard_arrow_down_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tutorial_tab_selector.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\tutorial_tab_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tutorial_default_dot.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\tutorial_default_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_foodbg.jpg.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\foodbg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_samplepin.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\samplepin.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_bluetooth_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_baseline_bluetooth_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_delete_forever_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_baseline_delete_forever_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bluetooth_searching_white_24dp.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_bluetooth_searching_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_language_24.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\ic_baseline_language_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header_shape.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\drawable\\header_shape.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pin_code.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Launcher_updated_13_10_21-1\\Launcher_updated_13_10_21\\app\\src\\main\\res\\layout\\activity_pin_code.xml"
+    }
+]

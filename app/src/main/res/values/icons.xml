@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- icons that can be used with type="solid" -->
+  <string name="fas_bars" translatable="false">&#xf0c9;</string>
+  <string name="fas_home" translatable="false">&#xf015;</string>
+  <string name="fas_settings" translatable="false">&#xf013;</string>
+  <string name="fas_globe" translatable="false">&#xf0ac;</string>
+  <string name="fas_ad" translatable="false">&#xf641;</string>
+  <string name="fas_backspace" translatable="false">&#xf55a;</string>
+  <string name="fas_calendar" translatable="false">&#xf133;</string>
+  <string name="fas_donate" translatable="false">&#xf4b9;</string>
+  <string name="fas_share" translatable="false">&#xf064;</string>
+  <string name="fas_trash" translatable="false">&#xf1f8;</string>
+  <string name="fas_times" translatable="false">&#xf00d;</string> <!-- 'close' -->
+  <string name="fas_three_dots" translatable="false">&#xf142;</string> <!-- 'ellipsis-v' -->
+
+  <string name="fas_volume_down" translatable="false">&#xf027;</string>
+  <string name="fas_volume_up" translatable="false">&#xf028;</string>
+  <string name="fas_plus" translatable="false">&#xf067;</string>
+  <string name="fas_minus" translatable="false">&#xf068;</string>
+  <string name="fas_back" translatable="false">&#xf048;</string>
+  <string name="fas_forward" translatable="false">&#xf051;</string>
+
+  <string name="fas_angle_double_left" translatable="false">&#xf100;</string>
+  <string name="fas_angle_double_right" translatable="false">&#xf101;</string>
+  <string name="fas_angle_double_up" translatable="false">&#xf102;</string>
+  <string name="fas_angle_double_down" translatable="false">&#xf103;</string>
+  <string name="fas_store" translatable="false">&#xf54e;</string>
+  <string name="fas_heart" translatable="false">&#xf004;</string>
+
+  <!-- icons that can be used with type="brands" -->
+  <string name="fab_apple" translatable="false">&#xf179;</string>
+  <string name="fab_instagram" translatable="false">&#xf16d;</string>
+  <string name="fab_github" translatable="false">&#xf09b;</string>
+  <string name="fab_google_play" translatable="false">&#xf3ab;</string>
+
+  <!-- icons that can be used with type="solid" and type="regular" -->
+  <string name="fa_close_window" translatable="false">&#xf410;</string>
+  <string name="fa_square" translatable="false">&#xf0c8;</string>
+  <string name="fa_star" translatable="false">&#xf005;</string>
+  <string name="fa_clipboard" translatable="false">&#xf328;</string>
+</resources>

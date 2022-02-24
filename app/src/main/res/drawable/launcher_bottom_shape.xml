@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/bgnew3">
+        <shape
+            android:layout_width="100dp"
+            android:shape="rectangle">
+
+            <solid android:color="#FFFFFF" />
+        </shape>
+    </item>
+    <item
+        android:bottom="-100dp"
+        android:left="-100dp"
+        android:right="-100dp"
+        android:top="550dp">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="oval">
+
+            <solid android:color="#f66a07" />
+        </shape>
+    </item>
+</layer-list>

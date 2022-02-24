@@ -1,0 +1,169 @@
+<resources>
+    <!--
+      -
+      - Home
+      -
+      -->
+    <string name="alert_cant_open_title">App kann nicht geöffnet werden</string>
+    <string name="alert_cant_open_message">Willst du die App-Einstellungen anpassen?</string>
+
+    <string name="toast_cant_open_message">Öffne die Einstellungen um für diese Aktion eine App zu wählen</string>
+
+    <!--
+      -
+      - Settings
+      -
+      -->
+    <string name="settings_title">Einstellungen</string>
+
+    <string name="settings_tab_app">Apps</string>
+    <string name="settings_tab_launcher">Launcher</string>
+    <string name="settings_tab_meta">Meta</string>
+
+    <!--
+      -
+      - Settings : Apps
+      -
+      -->
+    <string name="settings_apps_up">Hochwischen</string>
+    <string name="settings_apps_double_up">Doppelt hoch</string>
+    <string name="settings_apps_down">Runterwischen</string>
+    <string name="settings_apps_double_down">Doppelt runter</string>
+    <string name="settings_apps_left">Linkswischen</string>
+    <string name="settings_apps_double_left">Doppelt links</string>
+    <string name="settings_apps_right">Rechtswischen</string>
+    <string name="settings_apps_double_right">Doppelt rechts</string>
+    <string name="settings_apps_vol_up">Lautstärke +</string>
+    <string name="settings_apps_vol_down">Lautstärke -</string>
+    <string name="settings_apps_double_click">Doppelklick</string>
+    <string name="settings_apps_long_click">Langer Klick</string>
+    <string name="settings_apps_date">Datum antippen</string>
+    <string name="settings_apps_time">Uhr antippen</string>
+
+    <string name="settings_apps_choose">App wählen</string>
+
+    <string name="settings_apps_view_all">Alle Anwendungen</string>
+
+    <string name="settings_apps_install">Apps installieren</string>
+    <string name="settings_apps_toast_store_not_found">PlayStore nicht gefunden</string>
+
+    <!--
+      -
+      - Settings : Launcher
+      -
+      -->
+    <string name="settings_launcher_section_appearance">Erscheinung</string>
+
+    <string name="settings_launcher_time_format">Datumsformat</string>
+    <string-array name="settings_launcher_time_format_spinner_items">
+        <item>Standard</item>
+        <item>Invertiert</item>
+        <item>Uhrzeit</item>
+        <item>Deutsch</item>
+        <item>Nichts</item>
+    </string-array>
+
+    <string name="settings_launcher_theme">Theme</string>
+    <string-array name="settings_launcher_theme_spinner_items">
+        <item>Standard</item>
+        <item>Dunkel</item>
+        <item>Hintergrund</item>
+    </string-array>
+
+    <string name="settings_launcher_choose_wallpaper">Hintergrund auswählen</string>
+    <string name="settings_launcher_change_wallpaper">Hintergrund ändern</string>
+
+    <string name="settings_launcher_section_display">Bildschirm</string>
+
+    <string name="settings_launcher_disable_timeout">Bildschirm wach halten</string>
+    <string name="settings_launcher_full_screen">Vollbild verwenden</string>
+
+    <string name="settings_launcher_section_functions">Funktionen</string>
+
+    <string name="settings_launcher_enable_double">Doppelte Wischaktionen</string>
+    <string name="settings_launcher_auto_launch">Suchergebisse launchen</string>
+    <string name="settings_launcher_auto_keyboard">Tastatur in Suche öffnen</string>
+
+    <string name="settings_launcher_sensitivity">Empfindlichkeit</string>
+
+    <!--
+      -
+      - Settings : Meta
+      -
+      -->
+    <string name="settings_meta_select_launcher">Launcher wählen</string>
+    <string name="settings_meta_cant_select_launcher">App Info</string>
+    <string name="settings_meta_cant_select_launcher_msg">Dein Gerät unterstützt diese Funktion nicht. Stattdessen die App Details bearbeiten?</string>
+
+    <string name="settings_meta_show_tutorial">Zum Launcher Tutorial</string>
+
+    <string name="settings_meta_reset">Zurücksetzen</string>
+    <string name="settings_meta_reset_confirm">All deine Einstellungen gehen verloren. Weitermachen?</string>
+
+    <string name="settings_meta_link_github">https://github.com/finnmglas/Launcher#de</string>
+
+    <string name="settings_meta_report_bug">Einen Fehler melden</string>
+
+    <string name="settings_meta_discord">Unserem Discord beitreten</string>
+
+    <string name="settings_meta_contact">Entwickler kontaktieren</string>
+    <string name="settings_meta_contact_url">https://www.finnmglas.com/de/kontakt/</string>
+
+    <string name="settings_meta_donate_url">https://www.finnmglas.com/de/sponsor</string>
+
+    <!--
+      -
+      - List (Launchers app drawer)
+      -
+      -->
+    <string name="list_title_view">Alle Apps</string>
+    <string name="list_title_pick">App wählen</string>
+
+    <string name="list_tab_app">Apps</string>
+    <string name="list_tab_other">Andere</string>
+
+    <string name="list_app_delete">Deinstallieren</string>
+    <string name="list_app_info">App Info</string>
+
+    <string name="list_removed">Die App wurde entfernt</string>
+    <string name="list_not_removed">Die App konnte nicht entfernt werden</string>
+
+    <string name="list_apps_search_hint">Anwendungen suchen</string>
+
+    <string name="list_other_settings">App Einstellungen</string>
+    <string name="list_other_list">Alle Anwendungen</string>
+    <string name="list_other_volume_up">Musik: Lauter</string>
+    <string name="list_other_volume_down">Musik: Leiser</string>
+    <string name="list_other_track_next">Musik: Weiter</string>
+    <string name="list_other_track_previous">Musik: Zurück</string>
+
+    <!--
+      -
+      - Tutorial
+      -
+      -->
+    <string name="tutorial_title">Tutorial</string>
+    <string name="tutorial_start_text">Nimm dir kurz Zeit und lerne, wie du diesen Launcher verwendest!</string>
+
+    <string name="tutorial_concept_title">Konzept</string>
+    <string name="tutorial_concept_text">Launcher bietet dir eine minimalistische, effiziente und ablenkungsfreie digitale Umgebung.\n\nDie App kostet dich nichts, enthält keine Werbung, sammelt keine persönlichen Daten.</string>
+    <string name="tutorial_concept_text_2">Launcher ist open-source (MIT license) und auf GitHub!\n\nSchau gerne mal dort vorbei!</string>
+
+    <string name="tutorial_usage_title">Benutzung</string>
+    <string name="tutorial_usage_text">Auf deinem Homescreen siehst du nur das Datum und die Uhrzeit. Keine Ablenkung.</string>
+    <string name="tutorial_usage_text_2">Du öffnest Apps indem du über den Bildschirm wischt oder die Lautstärketasten drückst. Gleich wählst du deine Apps.</string>
+
+    <string name="tutorial_setup_title">Einrichtung</string>
+    <string name="tutorial_setup_text">Wir haben dir ein paar Standardapps ausgewählt, du kannst sie gerne ändern.</string>
+    <string name="tutorial_setup_text_2">Du kannst deine Einstellungen auch später noch ändern.</string>
+
+    <string name="tutorial_finish_title">Los gehts!</string>
+    <string name="tutorial_finish_text">Du bist bereit loszulegen!\n\nIch hoffe diese App ist sehr wertvoll für dich!\n\n- Finn (der Entwickler)</string>
+    <string name="tutorial_finish_button">Starten</string>
+
+
+
+
+
+
+</resources>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eeeeee"
+    android:orientation="vertical"
+    tools:context=".activity.SettingActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolBar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:background="#ED5913"
+        app:title="Update apps" />
+
+
+    <RelativeLayout
+        android:id="@+id/layout_merchant_app"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:clickable="true"
+        android:foreground="?selectableItemBackground"
+        >
+
+
+        <TextView
+            android:id="@+id/tv_wifi2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:text="Update Merchant App"
+            android:textColor="#000000"
+            android:textSize="@dimen/_12ssp" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/ic_ol"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:layout_toLeftOf="@+id/ic_delete_merchant"
+            android:src="@drawable/ic_baseline_download_24" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/ic_delete_merchant"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_alignParentEnd="true"
+            android:src="@drawable/ic_baseline_delete_forever_24" />
+
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+
+        android:background="#E3DEDE" />
+
+    <RelativeLayout
+        android:id="@+id/layout_merchant_app2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:clickable="true"
+        android:foreground="?selectableItemBackground">
+
+
+        <TextView
+            android:id="@+id/tv_wifi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:text="Update Merchant App 2"
+            android:textColor="#000000"
+            android:textSize="@dimen/_12ssp" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/ic_ol2"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:layout_toLeftOf="@+id/ic_delete_merchant2"
+            android:src="@drawable/ic_baseline_download_24" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/ic_delete_merchant2"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_alignParentEnd="true"
+            android:src="@drawable/ic_baseline_delete_forever_24" />
+
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+
+        android:background="#E3DEDE" />
+
+
+
+
+    <RelativeLayout
+        android:id="@+id/layout_ordere_wallet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:clickable="true"
+        android:foreground="?selectableItemBackground">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:text="Update OrderE Wallet"
+            android:textColor="#000000"
+            android:textSize="@dimen/_12ssp" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/ic_om_wallet"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:layout_toLeftOf="@+id/ic_om_wallet_delete"
+            android:src="@drawable/ic_baseline_download_24"
+            tools:ignore="DuplicateIds" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/ic_om_wallet_delete"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_alignParentEnd="true"
+            android:src="@drawable/ic_baseline_delete_forever_24"
+            tools:ignore="DuplicateIds" />
+
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+
+        android:background="#E3DEDE" />
+
+    <RelativeLayout
+        android:id="@+id/layout_ordere_launcher"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:clickable="true"
+        android:foreground="?selectableItemBackground">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:text="Update OrderE Launcher"
+            android:textColor="#000000"
+            android:textSize="@dimen/_12ssp" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/ic_om_launcher"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:layout_toLeftOf="@+id/ic_om_launcher_none"
+            android:src="@drawable/ic_baseline_download_24" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/ic_om_launcher_none"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_alignParentEnd="true"
+            android:src="@drawable/ic_baseline_download_24"
+            android:visibility="invisible" />
+
+
+    </RelativeLayout>
+
+
+    <!--    <RelativeLayout-->
+    <!--        android:id="@+id/layout_merchant_delete"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_margin="8dp"-->
+    <!--        android:clickable="true"-->
+    <!--        android:foreground="?selectableItemBackground">-->
+
+    <!--        <androidx.appcompat.widget.AppCompatImageView-->
+    <!--            android:id="@+id/ic_delete"-->
+    <!--            android:layout_width="@dimen/_30sdp"-->
+    <!--            android:layout_height="@dimen/_30sdp"-->
+    <!--            android:layout_alignParentStart="true"-->
+    <!--            android:layout_alignParentLeft="true"-->
+    <!--            android:src="@drawable/ic_baseline_delete_forever_24" />-->
+
+    <!--        <TextView-->
+    <!--            android:layout_width="wrap_content"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:layout_centerVertical="true"-->
+    <!--            android:layout_marginLeft="10dp"-->
+    <!--            android:layout_toRightOf="@id/ic_delete"-->
+    <!--            android:text="Delete Merchant App"-->
+
+    <!--            android:textColor="#000000"-->
+    <!--            android:textSize="@dimen/_12ssp" />-->
+
+
+    <!--    </RelativeLayout>-->
+
+    <!--    <RelativeLayout-->
+    <!--        android:id="@+id/layout_wallet_delete"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_margin="8dp"-->
+    <!--        android:clickable="true"-->
+    <!--        android:foreground="?selectableItemBackground">-->
+
+    <!--        <androidx.appcompat.widget.AppCompatImageView-->
+    <!--            android:id="@+id/ic_delete_wallet"-->
+    <!--            android:layout_width="@dimen/_30sdp"-->
+    <!--            android:layout_height="@dimen/_30sdp"-->
+    <!--            android:layout_alignParentStart="true"-->
+    <!--            android:layout_alignParentLeft="true"-->
+    <!--            android:src="@drawable/ic_baseline_delete_forever_24" />-->
+
+    <!--        <TextView-->
+    <!--            android:layout_width="wrap_content"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:layout_centerVertical="true"-->
+    <!--            android:layout_marginLeft="10dp"-->
+    <!--            android:layout_toRightOf="@id/ic_delete_wallet"-->
+    <!--            android:text="Delete Wallet App"-->
+
+    <!--            android:textColor="#000000"-->
+    <!--            android:textSize="@dimen/_12ssp" />-->
+
+
+    <!--    </RelativeLayout>-->
+
+
+</LinearLayout>

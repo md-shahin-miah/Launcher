@@ -1,0 +1,281 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--
+      -
+      - General
+      -
+      -->
+    <string name="app_name" translatable="false">OrderE Launcher</string>
+    <string name="preference_file_key" translatable="false">V3RYR4ND0MK3YCR4P</string>
+
+    <!--
+      -
+      - Home
+      -
+      -->
+    <string name="alert_cant_open_title">Can\'t open app</string>
+    <string name="alert_cant_open_message">Want to change its settings?</string>
+
+    <string name="toast_cant_open_message">Open settings to choose an app for this action</string>
+
+    <!--
+      -
+      - Settings
+      -
+      -->
+    <string name="settings_title">Settings</string>
+
+    <string name="settings_tab_app">Apps</string>
+    <string name="settings_tab_launcher">Launcher</string>
+    <string name="settings_tab_meta">Meta</string>
+
+    <!--
+      -
+      - Settings : Apps
+      -
+      -->
+    <string name="settings_apps_up">Swipe Up</string>
+    <string name="settings_apps_double_up">Double Up</string>
+    <string name="settings_apps_down">Swipe Down</string>
+    <string name="settings_apps_double_down">Double Down</string>
+    <string name="settings_apps_left">Swipe Left</string>
+    <string name="settings_apps_double_left">Double Left</string>
+    <string name="settings_apps_right">Swipe Right</string>
+    <string name="settings_apps_double_right">Double Right</string>
+    <string name="settings_apps_vol_up">Volume Up</string>
+    <string name="settings_apps_vol_down">Volume Down</string>
+    <string name="settings_apps_double_click">Double Click</string>
+    <string name="settings_apps_long_click">Long Click</string>
+    <string name="settings_apps_date">Click on Date</string>
+    <string name="settings_apps_time">Click on Time</string>
+
+    <string name="settings_apps_choose">Choose App</string>
+
+    <string name="settings_apps_view_all">View all apps</string>
+
+    <string name="settings_apps_install">Install apps</string>
+    <string name="settings_apps_toast_store_not_found">PlayStore not found</string>
+
+    <!--
+      -
+      - Settings : Launcher
+      -
+      -->
+    <string name="settings_launcher_section_appearance">Appearance</string>
+
+    <string name="settings_launcher_time_format">Date format</string>
+    <string-array name="settings_launcher_time_format_spinner_items">
+        <item>Default</item>
+        <item>Inverse</item>
+        <item>Time only</item>
+        <item>German</item>
+        <item>Nothing</item>
+    </string-array>
+    <string-array name="settings_launcher_time_formats_upper">
+        <item>yyyy-MM-dd</item>
+        <item>HH:mm:ss</item>
+        <item>HH:mm:ss</item>
+        <item>HH:mm:ss</item>
+        <item />
+    </string-array>
+    <string-array name="settings_launcher_time_formats_lower">
+        <item>HH:mm:ss</item>
+        <item>yyyy-MM-dd</item>
+        <item />
+        <item>dd.MM.yyyy</item>
+        <item />
+    </string-array>
+
+    <string name="settings_launcher_theme">Theme</string>
+    <string-array name="settings_launcher_theme_spinner_items">
+        <item>Default</item>
+        <item>Dark</item>
+        <item>Wallpaper</item>
+    </string-array>
+
+    <string name="settings_launcher_choose_wallpaper">Choose a wallpaper</string>
+    <string name="settings_launcher_change_wallpaper">Change wallpaper</string>
+
+    <string name="settings_launcher_section_display">Display</string>
+
+    <string name="settings_launcher_disable_timeout">Keep screen on</string>
+    <string name="settings_launcher_full_screen">Use full screen</string>
+
+    <string name="settings_launcher_section_functions">Functions</string>
+
+    <string name="settings_launcher_enable_double">Double swipe actions</string>
+    <string name="settings_launcher_auto_launch">Launch search results</string>
+    <string name="settings_launcher_auto_keyboard">Start keyboard for search</string>
+
+    <string name="settings_launcher_sensitivity">Sensitivity</string>
+
+    <!--
+      -
+      - Settings : Meta
+      -
+      -->
+    <string name="settings_meta_select_launcher">Select Launcher</string>
+    <string name="settings_meta_cant_select_launcher">App Info</string>
+    <string name="settings_meta_cant_select_launcher_msg">Your device does not support this feature. Manage application details instead?</string>
+
+    <string name="settings_meta_show_tutorial">View Launcher Tutorial</string>
+
+    <string name="settings_meta_reset">Reset Settings</string>
+    <string name="settings_meta_reset_confirm">You are going to discard all your preferences. Continue?</string>
+
+    <string name="settings_meta_link_github">https://github.com/finnmglas/Launcher#en</string>
+
+    <string name="settings_meta_report_bug">Report a bug</string>
+    <string name="settings_meta_report_bug_link" translatable="false">https://github.com/finnmglas/Launcher/issues/new</string>
+
+    <string name="settings_meta_contact">Contact the developer</string>
+    <string name="settings_meta_contact_url">https://www.finnmglas.com/contact/</string>
+
+    <string name="settings_meta_donate_url">https://www.finnmglas.com/sponsor</string>
+
+    <string name="settings_meta_discord">Join us on discord!</string>
+    <string name="settings_meta_discord_url" translatable="false">https://discord.com/invite/jV2AhF8</string>
+
+    <!--
+      -
+      - List (Launchers app drawer)
+      -
+      -->
+    <string name="list_title_view">All Apps</string>
+    <string name="list_title_pick">Choose App</string>
+
+    <string name="list_tab_app">Apps</string>
+    <string name="list_tab_other">Other</string>
+
+    <string name="list_app_delete">Uninstall</string>
+    <string name="list_app_info">App Info</string>
+
+    <string name="list_removed">Removed the selected application</string>
+    <string name="list_not_removed">Unable to remove application</string>
+
+    <string name="list_apps_search_hint">Search Applications</string>
+
+    <string name="list_other_settings">Launcher Settings</string>
+    <string name="list_other_list">All Applications</string>
+    <string name="list_other_volume_up">Music: Louder</string>
+    <string name="list_other_volume_down">Music: Quieter</string>
+    <string name="list_other_track_next">Music: Next</string>
+    <string name="list_other_track_previous">Music: Previous</string>
+
+    <!--
+      -
+      - Tutorial
+      -
+      -->
+    <string name="tutorial_title">Tutorial</string>
+    <string name="tutorial_start_text">Take a few seconds to learn how to use this Launcher!</string>
+
+    <string name="tutorial_concept_title">Concept</string>
+    <string name="tutorial_concept_text">Launcher is designed to be minimal, efficient and free of distraction.\n\nIt is free of payments, ads and tracking services.</string>
+    <string name="tutorial_concept_text_2">The app is open-source (MIT license) and available on GitHub!\n\nMake sure to check out the repository!</string>
+
+    <string name="tutorial_usage_title">Usage</string>
+    <string name="tutorial_usage_text">Your home screen contains the local date and time. No distraction.</string>
+    <string name="tutorial_usage_text_2">You can launch your apps with a single swipe or button press. Choose some in the next slide.</string>
+
+    <string name="tutorial_setup_title">Setup</string>
+    <string name="tutorial_setup_text">We chose some default apps for you, if you want to, you can change them now.</string>
+    <string name="tutorial_setup_text_2">You can also change your selection later.</string>
+
+    <string name="tutorial_finish_title">Let\'s go!</string>
+    <string name="tutorial_finish_text">You are ready to get started!\n\nI hope this is of great value to you!\n\n- Finn (who made Launcher)</string>
+    <string name="tutorial_finish_button">Start</string>
+
+
+    <string name="wifi_switch" tools:ignore="MissingTranslation">Wi-Fi %1$s</string>
+    <string name="wifi_on" tools:ignore="MissingTranslation">On</string>
+    <string name="wifi_off" tools:ignore="MissingTranslation">Off</string>
+    <string name="menu_main_show_profiles" tools:ignore="MissingTranslation">Show Profiles</string>
+    <string name="msg_wifi_scan_failed" tools:ignore="MissingTranslation">Could not initialize Wi-Fi scan.</string>
+    <string name="supl_state_completed" tools:ignore="MissingTranslation">Connected</string>
+    <string name="supl_state_authenticating" tools:ignore="MissingTranslation">Authenticating&#8230;</string>
+    <string name="supl_state_associated" tools:ignore="MissingTranslation">Connected</string>
+    <string name="supl_state_associating" tools:ignore="MissingTranslation">Connecting&#8230;</string>
+    <string name="supl_state_other" tools:ignore="MissingTranslation">Disconnected</string>
+    <string name="wifi_unsupported" tools:ignore="MissingTranslation">Network unsupported</string>
+    <string name="wifi_ssid_hidden" tools:ignore="MissingTranslation">(Hidden Network)</string>
+    <string name="wifi_has_profile" tools:ignore="MissingTranslation">Saved</string>
+    <string name="wifi_secure" tools:ignore="MissingTranslation">Secured</string>
+    <string name="wifi_open" tools:ignore="MissingTranslation">Open network</string>
+    <string name="dlg_ssid" tools:ignore="MissingTranslation">SSID</string>
+    <string name="dlg_security" tools:ignore="MissingTranslation">Security</string>
+    <string name="dlg_passphrase" tools:ignore="MissingTranslation">Passphrase</string>
+    <string name="dlg_passphrase_saved" tools:ignore="MissingTranslation">(Saved)</string>
+    <string name="dlg_action_forget" tools:ignore="MissingTranslation">Forget</string>
+    <string name="dlg_action_connect" tools:ignore="MissingTranslation">Connect</string>
+    <string name="dlg_action_dismiss" tools:ignore="MissingTranslation">Dismiss</string>
+    <string name="dlg_wifi_connect_title" tools:ignore="MissingTranslation">Connect to Network</string>
+    <string name="dlg_wifi_connected_title" tools:ignore="MissingTranslation">Connection Info</string>
+    <string name="dlg_wifi_saved_title" tools:ignore="MissingTranslation">Saved Network</string>
+    <string name="dlg_wifi_unsupported_title" tools:ignore="MissingTranslation">Network Unsupported</string>
+    <string name="dlg_warn_unsupported" tools:ignore="MissingTranslation">The security settings of this network is unsupported. Please choose another network.</string>
+    <string name="dlg_warn_hidden" tools:ignore="MissingTranslation">Cannot connect to hidden network. Please choose another network.</string>
+    <string name="action_result_connect" tools:ignore="MissingTranslation">Connection attempt started</string>
+    <string name="action_result_create_profile_error" tools:ignore="MissingTranslation">Cannot create network profile. Connection attempt cancelled.</string>
+    <string name="action_result_invalid_passphrase" tools:ignore="MissingTranslation">Passphrase is too short. Minimum length is 8 characters.</string>
+    <string name="action_result_profile_delete" tools:ignore="MissingTranslation">Network configuration profile deleted</string>
+    <string name="action_result_profile_cannot_delete" tools:ignore="MissingTranslation">Cannot remove system-configured network profiles</string>
+
+    <string name="show_paired_device" translatable="false">Show Paired Device</string>
+
+    <string name="search_for_device" translatable="false">Search for device</string>
+
+    <string name="text_pair" translatable="false">Pair</string>
+
+    <string name="bt_condition_text_on" translatable="false">Bluetooth is on</string>
+
+    <string name="bt_condition_text_off" translatable="false">Bluetooth is off</string>
+
+    <string name="bt_switch" translatable="false">On/Off</string>
+
+    <string name="ok" translatable="false">Sure</string>
+
+    <string name="cancel" translatable="false">Cancel</string>
+
+    <string name="text_view_paired" translatable="false">Paired Devices</string>
+
+    <string name="text_scan_devices" translatable="false">Scan Devices</string>
+
+    <string name="text_stop_scan" translatable="false">Scan Devices</string>
+
+    <string name="text_list_paired_devices" translatable="false">Paired Devices</string>
+
+    <string name="text_list_devices" translatable="false">List of Devices</string>
+
+    <string name="text_connect" translatable="false">Connect</string>
+
+    <string name="text_connected" translatable="false">Connected</string>
+
+    <string name="text_disconnected" translatable="false">Disconnect</string>
+
+    <string name="my_device_name" translatable="false">My Device Name</string>
+
+    <string name="dummy_mac_address" translatable="false">A0:50:50L00:D5:D9</string>
+
+
+    <string name="click_effect_button" translatable="false">Effect 1</string>
+    <string name="oneshot_effect_button" translatable="false">Effect 2</string>
+    <string name="waveform_effect_button" translatable="false">Effect 3</string>
+    <string name="button_3_pass" translatable="false">Effect 3: PASS</string>
+    <string name="button_3_fail" translatable="false">Effect 3: FAIL</string>
+    <string name="web_address" translatable="false">www.ordere.co.uk</string>
+    <string name="ordere" translatable="false">OrderE</string>
+    <string name="merchant" translatable="false">Merchant</string>
+    <string name="phone" translatable="false">03 333 443 464</string>
+    <string name="email" translatable="false">info@ordere.co.uk</string>
+    <string name="merchant_app" translatable="false">Merchant App</string>
+    <string name="wallet" translatable="false">Wallet</string>
+    <string name="settings" translatable="false">Settings</string>
+    <string name="update_app" translatable="false">Update</string>
+    <string name="system_setting">System Setting</string>
+    <string name="change_launcher">Change launcher</string>
+
+
+</resources>
+
+
+

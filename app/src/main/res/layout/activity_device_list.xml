@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical">
+
+    <Toolbar
+        android:id="@+id/main_wifi_switch_toolbarNew"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#83EDE2E1"
+        android:contentInsetStart="16dp"
+        android:contentInsetEnd="16dp"
+        android:elevation="8dp"
+        android:titleTextColor="#000000"
+        android:title="List of device"
+        tools:ignore="NewApi"
+        tools:targetApi="lollipop" />
+
+<!--    <TextView-->
+<!--        android:id="@+id/tv_status"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:gravity="center"-->
+<!--        android:textSize="17sp"-->
+<!--        android:text="@string/text_list_devices" />-->
+
+    <!--<ListView-->
+    <!--    android:id="@+id/lv_paired"-->
+    <!--    android:layout_width="match_parent"-->
+    <!--    android:layout_height="wrap_content"-->
+    <!--    android:layout_marginTop="@dimen/activity_vertical_margin"-->
+    <!--    android:cacheColorHint="#00000000"-->
+    <!--    android:dividerHeight="3dp" />-->
+
+
+    <androidx.recyclerview.widget.RecyclerView
+
+        android:id="@+id/rvDeviceList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
